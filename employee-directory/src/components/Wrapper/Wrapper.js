@@ -1,13 +1,12 @@
 import React from "react";
-import "./style";
-import Card from "../Card/card";
+import "./style.css";
 
-function Wrapper(props) {
-  <div className="container">
-    {props.employees.forEach((element) => {
-      <Card employees={props.children} />;
-    })}
-  </div>;
+function Wrapper() {
+  return (
+    <div className="container">
+      
+    </div>
+  );
 }
 
 export default Wrapper;
