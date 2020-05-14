@@ -8,10 +8,11 @@ function Card(props) {
         <ul>
           <li> Name: {props.name}</li>
           <li> Rank: {props.rank}</li>
+          <li> Quirkyness: {props.quirkyness}</li>
         </ul>
       </div>
     </div>
   );
 }
 
-export default Card
+export default Card;

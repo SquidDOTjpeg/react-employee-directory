@@ -1,47 +1,77 @@
 [
     {
+        "id": "1",
         "name": "All Might",
-        "rank": "Retired"
+        "rank": "Retired",
+        "quirkyness": "9"
     },
     {
+        "id": "2",
         "name": "Endeavor",
-        "rank": "1"
+        "rank": "1",
+        "quirkyness": "7"
     },
     {
+        "id": "3",
         "name": "Hawks",
-        "rank": "2"
+        "rank": "2",
+        "quirkyness": "3"
     },
     {
+        "id": "4",
+
         "name": "Best Jeanist",
-        "rank": "3"
+        "rank": "3",
+        "quirkyness": "8"
     },
     {
+        "id": "5",
+
         "name": "Edgeshot",
-        "rank": "4"
+        "rank": "4",
+        "quirkyness": "7"
     },
     {
+        "id": "6",
+
         "name": "Mirko",
-        "rank": "5"
+        "rank": "5",
+        "quirkyness": "6"
     },
     {
+        "id": "7",
+
         "name": "Crust",
-        "rank": "6"
+        "rank": "6",
+        "quirkyness": "5"
     },
     {
+        "id": "8",
+
         "name": "Kamui Woods",
-        "rank": "7"
+        "rank": "7",
+        "quirkyness": "6"
     },
     {
+        "id": "9",
+
         "name": "Wash",
-        "rank": "8"
+        "rank": "8",
+        "quirkyness": "7"
     },
     {
+        "id": "10",
+
         "name": "Yoroi Musha",
-        "rank": "9"
+        "rank": "9",
+        "quirkyness": "5"
     },
     {
+        "id": "11",
+
         "name": "Ryukyu",
-        "rank": "10"
+        "rank": "10",
+        "quirkyness": "7"
     }
 
 ]
